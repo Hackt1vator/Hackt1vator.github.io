@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowPairing</key>
+	<true/>
+	<key>AwaitDeviceConfigured</key>
+	<false/>
+	<key>CloudConfigurationUIComplete</key>
+	<true/>
+	<key>ConfigurationSource</key>
+	<integer>2</integer>
+	<key>ConfigurationWasApplied</key>
+	<true/>
+	<key>IsMDMUnremovable</key>
+	<false/>
+	<key>IsMandatory</key>
+	<false/>
+	<key>IsSupervised</key>
+	<true/>
+	<key>OrganizationAddress</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationCity</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationCountry</key>
+	<string>GB</string>
+	<key>OrganizationDepartment</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationEmail</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationMagic</key>
+	<string>A66BFFBC-9544-4B55-BD02-83F9546FDDE6</string>
+	<key>OrganizationName</key>
+	<string>supervise.me</string>
+	<key>OrganizationPhone</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationState</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationSupportPhone</key>
+	<string>Backup for http://supervise.me</string>
+	<key>OrganizationZipCode</key>
+	<string>Backup for http://supervise.me</string>
+	<key>PostSetupProfileWasInstalled</key>
+	<true/>
+	<key>SupervisorHostCertificates</key>
+	<array>
+		<data>
+		MIIFczCCBFugAwIBAgIJAKYnmLSk+0hLMA0GCSqGSIb3DQEBCwUAMIIBYTFF
+		MEMGA1UEAww8aU1hemluZzogc3VwZXJ2aXNlLm1lIChBNjZCRkZCQy05NTQ0
+		LTRCNTUtQkQwMi04M0Y5NTQ2RkRERTYpMRUwEwYDVQQKDAxzdXBlcnZpc2Uu
+		bWUxJzAlBgNVBAsMHkJhY2t1cCBmb3IgaHR0cDovL3N1cGVydmlzZS5tZTEL
+		MAkGA1UEBhMCR0IxJzAlBgNVBAcMHkJhY2t1cCBmb3IgaHR0cDovL3N1cGVy
+		dmlzZS5tZTEnMCUGA1UECAweQmFja3VwIGZvciBodHRwOi8vc3VwZXJ2aXNl
+		Lm1lMScwJQYDVQQJDB5CYWNrdXAgZm9yIGh0dHA6Ly9zdXBlcnZpc2UubWUx
+		JzAlBgNVBBEMHkJhY2t1cCBmb3IgaHR0cDovL3N1cGVydmlzZS5tZTEnMCUG
+		A1UEFAweQmFja3VwIGZvciBodHRwOi8vc3VwZXJ2aXNlLm1lMB4XDTIyMDEx
+		NjIwMjE1NFoXDTQyMDExMTIwMjE1NFowggFhMUUwQwYDVQQDDDxpTWF6aW5n
+		OiBzdXBlcnZpc2UubWUgKEE2NkJGRkJDLTk1NDQtNEI1NS1CRDAyLTgzRjk1
+		NDZGRERFNikxFTATBgNVBAoMDHN1cGVydmlzZS5tZTEnMCUGA1UECwweQmFj
+		a3VwIGZvciBodHRwOi8vc3VwZXJ2aXNlLm1lMQswCQYDVQQGEwJHQjEnMCUG
+		A1UEBwweQmFja3VwIGZvciBodHRwOi8vc3VwZXJ2aXNlLm1lMScwJQYDVQQI
+		DB5CYWNrdXAgZm9yIGh0dHA6Ly9zdXBlcnZpc2UubWUxJzAlBgNVBAkMHkJh
+		Y2t1cCBmb3IgaHR0cDovL3N1cGVydmlzZS5tZTEnMCUGA1UEEQweQmFja3Vw
+		IGZvciBodHRwOi8vc3VwZXJ2aXNlLm1lMScwJQYDVQQUDB5CYWNrdXAgZm9y
+		IGh0dHA6Ly9zdXBlcnZpc2UubWUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+		ggEKAoIBAQC2K8ZCDWZoyAK9C3iEAtfcBtsx58LoHRw3zmVyQYT6ygbS8GbA
+		lKp1ZYmUrcBBo/xVO5+ePpr8FOu9YQvViUD1Cy5FNKh/YfV+bF1l48cBp0QF
+		AotRW76K9zmrx1xHQcwlyWtcg2tYjFzqEGZEW2Gz1CNf/nxBvZWqqEZrrjvX
+		RD17HIiHOBvuumW5JSQXK9yHvRp6blE+GT6EtWapktxWFu7Wk1aN/jNwCSn3
+		dh9M9UjdlFprjctYhZ2pdkbGbEeE2hSfKa1AXFZOfLe/p1u8I17N3V1intyi
+		dXN+imjtDKDB2I5fKlngnWphZDKGxt1YgGvg61thZw2ZvocZ6KUZAgMBAAGj
+		KjAoMA4GA1UdDwEB/wQEAwIHgDAWBgNVHSUBAf8EDDAKBggrBgEFBQcDAzAN
+		BgkqhkiG9w0BAQsFAAOCAQEAKUpHm9c8rtvmjvUpWKGtDNj0Am79ba5F21b+
+		vh65qJ5tSGRwoNhFAn6HVlmuEGg0hl9BshROtPIEh1AWdGJfqUCcKSFOm3uu
+		G+yOsbIU6jK4qyN64nMFZoVhrotuIctWmp+tFGQHsN4/9vBl+XxDe+ENy78/
+		rTQKStoHBUBsxGi8rAx1q6C27/sL00M6KaKPMb1ZZJgulJJEPr3HcWdKuYPw
+		TqrDQg2/DcVaWKMdCB6WUkloGQ1lfe8Z48T4K9PYE1r9Ehdgti36Ft20E0uo
+		PT62mn9qmgVEC3S/2OdOsfEfi/3xx8j8CJ0KesZo7Wl/REjRx922FZaAQEI1
+		fUywFQ==
+		</data>
+	</array>
+</dict>
+</plist>
